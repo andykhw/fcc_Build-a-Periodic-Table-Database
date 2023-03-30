@@ -1,0 +1,1 @@
+Build a Bash Script Program to get information about chemical elements from a periodic table database in Postgres SQL.
